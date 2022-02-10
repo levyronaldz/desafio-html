@@ -65,3 +65,12 @@ main aside div ul li a{
 
     
 }
+
+footer{
+    background-color: rgb(0, 0, 0);
+}
+footer h1{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+}
